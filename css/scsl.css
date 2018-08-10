@@ -698,7 +698,7 @@ div.unread-mentions-indicator-bottom {
 
 [class~=app] {
     background: var(--background-image); !important
-    background-size: contain; !important
+    background-size: contain no-repeat; !important
     background-position: center; !important
 }
 
