@@ -697,8 +697,9 @@ div.unread-mentions-indicator-bottom {
 }
 
 [class~=app] {
-    background: var(--background-image);
-    background-size: cover;
+    background: var(--background-image); !important
+    background-size: contain; !important
+    background-position: center; !important
 }
 
 .theme-dark .homeIcon-1FoKUJ {
