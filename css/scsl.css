@@ -147,7 +147,7 @@ html {
 .message-group .mentioned .message-text:after {
     background: rgba(114, 137, 218, 0.25);
     border-left: 4px solid rgba(114, 137, 218, 0);
-    border-radius: 2px 0 0 2px;
+    border-radius: 0px 0 0 0px;
     bottom: 0;
     content: " ";
     left: -6px;
@@ -186,7 +186,7 @@ html {
     background-clip: padding-box;
     background-color: var(--scroll-bar-color);
     border: 3px solid rgba(0, 0, 0, 0);
-    border-radius: 7px;
+    border-radius: 0px;
 }
 
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
@@ -228,7 +228,7 @@ html {
 
 .wrapper-2NJDcI {
     background-color: rgba(255, 255, 255, 0);
-    border-radius: 2px;
+    border-radius: 0px;
     color: #c5c5c5;
     display: inline-block;
     font-family: SourceCodePro,Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
@@ -274,7 +274,7 @@ html {
 .unread-1Dp-OI {
     background-color: var(--main-color);
     opacity: .6;
-    border-radius: 100px;
+    border-radius: 0px;
     height: 8px;
     left: -4px;
     margin-top: -4px;
@@ -502,7 +502,7 @@ div.unread-mentions-indicator-bottom {
     -webkit-box-shadow: none;
     background-color: #f04747;
     border: 2px solid transparent;
-    border-radius: 8px;
+    border-radius: 0px;
     box-shadow: none;
     height: 4px;
     position: absolute;
@@ -730,7 +730,7 @@ div.unread-mentions-indicator-bottom {
 
 .theme-dark .guild-1EfMGQ .guildInner-3DSoA4 {
     background: transparent;
-    border-radius: 25px !important;
+    border-radius: 0px !important;
 }
 
 .guild-1EfMGQ {
@@ -742,7 +742,7 @@ div.unread-mentions-indicator-bottom {
 }
 
 .guild-1EfMGQ .guildIcon-CT-ZDq {
-    border-radius: 25px;
+    border-radius: 0px;
 }
 
 .guilds-1q_RqH > .guild-1EfMGQ:first-child > .guildInner-3DSoA4 {
@@ -815,7 +815,7 @@ div.unread-mentions-indicator-bottom {
 }
 
 #bd-pub-li #bd-pub-button {
-    border-radius: 25px !important;
+    border-radius: 0px !important;
     background: #2f3136 !important;
 }
 
