@@ -2,6 +2,7 @@
 
 html {
     font-size: var(--font-size) !important;
+    border-radius: 0 !important;
 }
 
 .container-2lgZY8 {
