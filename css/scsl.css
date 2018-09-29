@@ -626,7 +626,7 @@ div.unread-mentions-indicator-bottom {
 }
 
 .guild-1EfMGQ.selected-ML3OIq:before, .guild-1EfMGQ.unread-qLkInr:before {
-    border-radius: 50px !important;
+    border-radius: 0px !important;
     content: " ";
     height: 54px !important;
     left: -15px !important;
